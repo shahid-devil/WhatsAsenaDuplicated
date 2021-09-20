@@ -11,9 +11,7 @@
 - 🙂 I'm Shahid Shazz
 - 🚩 I'm a beginner in this field
 - 📍 From Pattambi,Palakkad,Kerala,🇮🇳
-- 
 - 🏫 High School at GHSS CHUNDAMPATTA 
-- 
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
@@ -92,20 +90,12 @@ Project created by <a href="https://github.com/shahid-devil/luttapi">Shahid-Devi
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/phathicusthiccy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/916282185054"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://https://www.facebook.com/danger666host"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/shahid shazz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/shahid-devil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
 </p>
-  
-
-<div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahid-devil&show_icons=true&theme=nightowl" alt="shahid-devil" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-devil&theme=nightowl" alt="shahid-devil" /></p>
-</details> </div>
+ 
 
 
 ## 📢 Guide
@@ -115,7 +105,6 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahid-devil&repo=Meenakshi&theme=nightowl)](https://github.com/shahid-devil/luttapi)
   </div>
     
 ## Setup
@@ -194,16 +183,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 [farhan-dqz](hdivttps://github.com/farhan-dqz)  | [afnanplk](https://github.com/afnanplk/Pinky) | [shahid-devil](https://github.com/shahid-devil)| [terror-boy](https://github.com/terror-boy)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules|Base, Bug Fixes, Modules
 
-  </div>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/VISHNUP76080410?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xxirfanx" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCIuejw6s9ofhqTUhE1_ErPw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan yt ff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
-</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
