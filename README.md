@@ -91,7 +91,7 @@ Project created by <a href="https://github.com/shahid-devil/luttapi">Shahid-Devi
 <h1 align="center"> Connect with me
 <p align="center">
   <a href="https://wa.me/916282185054"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/shahid shazz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://t.me/shahiddevil"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/shahid-devil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
 </p>
